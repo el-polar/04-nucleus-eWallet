@@ -54,10 +54,10 @@ img {
   padding: 5rem 0;
 }
 @media (min-width: 375px) {
-    .header {
-      background-size: 10rem;
-    }
+  .header {
+    background-size: 10rem;
   }
+}
 @media (min-width: 768px) {
   .header {
     background-size: 50rem;
@@ -74,10 +74,10 @@ img {
   }
 }
 @media (min-width: 1600px) {
-    .header {
-      background-size: 130rem;
-    }
+  .header {
+    background-size: 130rem;
   }
+}
 .header__contenedor {
   max-width: 120rem;
   margin: 0 auto;
